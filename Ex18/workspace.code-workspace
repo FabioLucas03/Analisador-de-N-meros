@@ -1,0 +1,57 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Aula 04"
+		},
+		{
+			"path": "..\\..\\Aula 06"
+		},
+		{
+			"path": "..\\..\\Aula 09"
+		},
+		{
+			"path": "..\\..\\Aula 10"
+		},
+		{
+			"path": "..\\..\\Aula 11"
+		},
+		{
+			"path": "..\\..\\Aula 12"
+		},
+		{
+			"path": "..\\..\\Aula12ex"
+		},
+		{
+			"path": "..\\..\\Aula013"
+		},
+		{
+			"path": "..\\..\\Aula014"
+		},
+		{
+			"path": "..\\..\\Aula14ex"
+		},
+		{
+			"path": "..\\..\\Aula15"
+		},
+		{
+			"path": "..\\..\\Aula16"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aula14ex",
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.useLocalIp": true,
+		"extensions.supportVirtualWorkspaces": {
+	
+			"pub.name": false
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}

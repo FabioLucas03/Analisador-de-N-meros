@@ -1,0 +1,30 @@
+body {
+background: rgb(47, 119, 243);
+font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align:center; /*centro*/
+
+}
+
+section{
+    background: white;
+    border-radius: 10px; /*raio da borda da div*/
+    padding: 15px; /*espaço entre a div e a borda*/
+    width: 500px;
+    margin: auto; /*para centralizar*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.537); /*Caixa preta para fazer uma sombra. 5px de deslocamento lateral,5px deslocamento vertical e 10 px de espalhamento.*/
+}
+
+select#flista{
+    width: 150px;/*Para Aumentar a largura do select*/
+}
+
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic; /*Mudar a fonte*/
+
+}
